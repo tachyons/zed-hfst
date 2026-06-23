@@ -1,0 +1,4 @@
+name = "LEXC"
+grammar = "lexc"
+path_suffixes = ["lexc"]
+line_comments = ["! "]

@@ -1,0 +1,4 @@
+name = "TWOL"
+grammar = "twol"
+path_suffixes = ["twol"]
+line_comments = ["! "]
