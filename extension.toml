@@ -1,6 +1,6 @@
 id = "hfst"
 name = "HFST"
-version = "0.1.0"
+version = "0.0.1"
 schema_version = 1
 authors = ["Aboobacker MK <aboobackervyd@gmail.com>"]
 description = "HFST language support for Zed: TWOL (Two-Level Morphology) and LEXC (Lexicon Compiler)"
